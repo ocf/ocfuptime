@@ -56,8 +56,8 @@ status-website:
   baseUrl: /ocfuptime
   logoUrl: https://static.ocf.berkeley.edu/img/penguin-swing.svg
   name: OCF Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status of OCF services and systems."
+  introMessage: For more information about service interruptions, please also check the [OCF Status Blog](https://status.ocf.berkeley.edu).
   navbar:
     - title: Status
       href: /
@@ -74,3 +74,7 @@ workflowSchedule:
   uptime: "*/2 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+commitMessages:
+  commitAuthorName: "ocfbot"
+  commitAuthorEmail: "officers@ocf.berkeley.edu"
