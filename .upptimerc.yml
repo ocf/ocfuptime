@@ -13,12 +13,18 @@ sites:
     url: https://irc.ocf.berkeley.edu
   - name: OCF Chat
     url: https://chat.ocf.berkeley.edu
+  - name: OCF Matrix
+    url: https://matrix.ocf.berkeley.edu
   - name: OCF Mirrors
     url: https://mirrors.ocf.berkeley.edu
+  - name: OCF Mirrors (HTTP)
+    url: http://mirrors.ocf.berkeley.edu
+  - name: OCF APT Repository
+    url: http://apt.ocf.berkeley.edu
+  - name: OCF APT Repository (HTTPS)
+    url: https://apt.ocf.berkeley.edu
   - name: OCF WebSSH
     url: https://ssh.ocf.berkeley.edu
-  - name: OCF Grafana
-    url: https://grafana.ocf.berkeley.edu
   - name: OCF HedgeDoc
     url: https://notes.ocf.berkeley.edu
   - name: OCF Auth
