@@ -29,6 +29,10 @@ sites:
     url: https://notes.ocf.berkeley.edu
   - name: OCF Auth
     url: https://auth.ocf.berkeley.edu
+  - name: OCF Jukebox
+    url: https://jukebox.ocf.berkeley.edu
+  - name: OCF API
+    url: https://api.ocf.berkeley.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
