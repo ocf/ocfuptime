@@ -1,24 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ocf # Your GitHub organization or username, where this repository lives
+repo: ocfuptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: OCF
+    url: https://www.ocf.berkeley.edu
+  - name: ocf.io
+    url: https://ocf.io
+  - name: New OCF
+    url: https://new.ocf.berkeley.edu
+  - name: OCF TheLounge
+    url: https://irc.ocf.berkeley.edu
+  - name: OCF Chat
+    url: https://chat.ocf.berkeley.edu
+  - name: OCF Mirrors
+    url: https://mirrors.ocf.berkeley.edu
+  - name: OCF WebSSH
+    url: https://ssh.ocf.berkeley.edu
+  - name: OCF Grafana
+    url: https://grafana.ocf.berkeley.edu
+  - name: OCF HedgeDoc
+    url: https://notes.ocf.berkeley.edu
+  - name: OCF Auth
+    url: https://auth.ocf.berkeley.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /ocfuptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: OCF Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
