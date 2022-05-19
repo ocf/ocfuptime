@@ -198,19 +198,19 @@
     "url": "https://ssh.ocf.berkeley.edu",
     "icon": "https://favicons.githubusercontent.com/ssh.ocf.berkeley.edu",
     "slug": "ocf-web-ssh",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 211,
-    "timeDay": 189,
+    "timeDay": 190,
     "timeWeek": 203,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-05-19": 1
+      "2022-05-19": 6
     }
   },
   {
