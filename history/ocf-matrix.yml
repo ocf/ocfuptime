@@ -1,7 +1,7 @@
 url: https://matrix.ocf.berkeley.edu
-status: down
-code: 503
-responseTime: 553
-lastUpdated: 2022-10-01T19:34:33.739Z
+status: up
+code: 200
+responseTime: 386
+lastUpdated: 2022-10-01T19:38:37.710Z
 startTime: Fri May 06 2022 05:55:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
