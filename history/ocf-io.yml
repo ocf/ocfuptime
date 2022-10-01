@@ -1,7 +1,7 @@
 url: https://ocf.io
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2022-10-01T19:21:35.129Z
+status: down
+code: 503
+responseTime: 271
+lastUpdated: 2022-10-01T19:31:27.576Z
 startTime: Fri May 06 2022 05:48:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
