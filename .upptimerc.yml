@@ -7,8 +7,6 @@ sites:
     url: https://www.ocf.berkeley.edu
   - name: ocf.io
     url: https://ocf.io
-  - name: New OCF
-    url: https://new.ocf.berkeley.edu
   - name: OCF TheLounge
     url: https://irc.ocf.berkeley.edu
   - name: OCF Chat
@@ -52,6 +50,8 @@ sites:
     url: https://code.ocf.berkeley.edu
   - name: OCF Labmap
     url: https://labmap.ocf.berkeley.edu
+  - name: OCF Outline
+    url: https://docs.ocf.berkeley.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
